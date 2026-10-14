@@ -2,6 +2,10 @@
 
 IT student from Girona (Catalonia), training in networking and microcomputer systems (SMX). I build side projects to practice what I learn: Linux administration, networks and software development.
 
+## Tech I work with
+
+![Tech stack](https://skillicons.dev/icons?i=python,ts,nextjs,react,java,kotlin,linux,docker,git&perline=9)
+
 ## Featured projects
 
 **[Linux Server Manager](https://github.com/Marchansergi/Linux-Server-Manager)** (Python): self-hosted, read-only web dashboard to monitor Linux servers in homelabs and small infrastructures. Session-based login, scrypt password hashing, rate-limited logins and a non-root Docker container.
@@ -16,11 +20,8 @@ IT student from Girona (Catalonia), training in networking and microcomputer sys
 
 **[Password Manager](https://github.com/Marchansergi/Password-manager)**: simple password manager with setup instructions included.
 
-## Tech I work with
-
-Python, TypeScript, Next.js, React, Java, Kotlin, Linux, Docker, Git.
-
 ## Contact
 
-- Email: marchansergi@gmail.com
-- Web: https://marchansergi.netlify.app
+Email: marchansergi@gmail.com
+
+Web: https://marchansergi.netlify.app
