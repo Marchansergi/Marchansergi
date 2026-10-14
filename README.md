@@ -24,4 +24,4 @@ IT student from Girona (Catalonia), training in networking and microcomputer sys
 
 Email: marchansergi@gmail.com
 
-Web: https://marchansergi.netlify.app
+Web: https://sergimarchan.netlify.app
